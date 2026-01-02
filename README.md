@@ -1,4 +1,4 @@
-<!-- ![Header](./background.png) -->
+![Header](./background.png)
 
 ### Hi there 👋
 
