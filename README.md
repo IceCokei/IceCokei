@@ -13,8 +13,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IceCokei&show_icons=true&theme=dark)
+![stats](https://raw.githubusercontent.com/IceCokei/github-stats-transparent/output/generated/overview.svg)
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IceCokei&layout=compact&theme=dark)
+![languages](https://raw.githubusercontent.com/IceCokei/github-stats-transparent/output/generated/languages.svg)
