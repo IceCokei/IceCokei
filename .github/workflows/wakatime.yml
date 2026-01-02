@@ -1,0 +1,20 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 00:00 运行
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update waka stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: █░
+          TIME_RANGE: last_7_days
