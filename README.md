@@ -1,4 +1,8 @@
-![Header](./background.png)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./Whitebackground.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./Blackbackground.png">
+  <img alt="Profile Header" src="./Whitebackground.png">
+</picture>
 
 ## 💭 GitHub Stats
 
