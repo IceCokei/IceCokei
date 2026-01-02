@@ -11,20 +11,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IceCokei/IceCokei/output/snake.svg">
 </picture>
 
-## 📊 Coding Activity
+## 📊 GitHub Stats
 
-<!--START_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IceCokei&show_icons=true&theme=dark)
 
-🌞 Morning 965 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 08.69 %
-🌆 Daytime 4544 commits ██████████░░░░░░░░░░░░░░░ 40.94 %
-🌃 Evening 3876 commits █████████░░░░░░░░░░░░░░░░ 34.92 %
-🌙 Night 1715 commits ████░░░░░░░░░░░░░░░░░░░░░ 15.45 %
+## 💻 Most Used Languages
 
-💬 Languages:
-TypeScript 5 hrs 57 mins ████████░░░░░░░░░░░░░░░░░ 32.52 %
-YAML 2 hrs 49 mins ████░░░░░░░░░░░░░░░░░░░░░ 15.42 %
-Markdown 2 hrs 26 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.33 %
-Bash 1 hr 57 mins ███░░░░░░░░░░░░░░░░░░░░░░ 10.66 %
-Python 1 hr 52 mins ███░░░░░░░░░░░░░░░░░░░░░░ 10.26 %
-
-<!--END_SECTION:waka-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IceCokei&layout=compact&theme=dark)
