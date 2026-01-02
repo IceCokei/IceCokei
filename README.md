@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./Whitebackground.png">
-  <source media="(prefers-color-scheme: dark)" srcset="./Blackbackground.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./Blackbackground1.png">
   <img alt="Profile Header" src="./Whitebackground.png">
 </picture>
 
