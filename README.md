@@ -13,6 +13,7 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://raw.githubusercontent.com/IceCokei/github-stats-transparent/output/generated/overview.svg)
-
-![languages](https://raw.githubusercontent.com/IceCokei/github-stats-transparent/output/generated/languages.svg)
+<div align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/IceCokei/github-stats-transparent/output/generated/overview.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/IceCokei/github-stats-transparent/output/generated/languages.svg" />
+</div>
